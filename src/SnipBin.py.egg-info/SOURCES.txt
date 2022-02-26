@@ -1,0 +1,12 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+src/SnipBin.py.egg-info/PKG-INFO
+src/SnipBin.py.egg-info/SOURCES.txt
+src/SnipBin.py.egg-info/dependency_links.txt
+src/SnipBin.py.egg-info/requires.txt
+src/SnipBin.py.egg-info/top_level.txt
+src/snipbin/__init__.py
+src/snipbin/snipbin.py

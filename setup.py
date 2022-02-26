@@ -14,16 +14,16 @@ long_description = (here / 'README.md').read_text(encoding='utf-8')
 
 setup(
     name='SnipBin.py',
-    version='1.0',
+    version='1.0.1.2',
     description='A Python API wrapper for SnipBin (http://snip.hxrsh.in/)',
     long_description=long_description,
+    long_description_content_type='text/markdown',
     url='https://github.com/airD173/SnipBin.py',
     author='Atri Dey',
     author_email='adey1731@gmail.com',
     classifiers=[
         'Development Status :: 5 - Production/Stable',
         'Intended Audience :: Developers',
-        'Topic :: Software Development :: Build Tools',
         'License :: OSI Approved :: MIT License',
         'Programming Language :: Python :: 3',
         'Programming Language :: Python :: 3.6',
