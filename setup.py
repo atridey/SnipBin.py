@@ -14,7 +14,7 @@ long_description = (here / 'README.md').read_text(encoding='utf-8')
 
 setup(
     name='SnipBin.py',
-    version='1.0.1.2',
+    version='1.0.1.3',
     description='A Python API wrapper for SnipBin (http://snip.hxrsh.in/)',
     long_description=long_description,
     long_description_content_type='text/markdown',
