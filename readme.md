@@ -1,3 +1,7 @@
+![PyPI](https://img.shields.io/pypi/v/SnipBin.py)
+![GitHub](https://img.shields.io/github/license/airD173/SnipBin.py)
+
+
 # SnipBin.py
 
 A Python API wrapper for [SnipBin](http://snip.hxrsh.in/)
