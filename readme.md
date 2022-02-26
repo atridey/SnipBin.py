@@ -6,8 +6,6 @@ A Python API wrapper for [SnipBin](http://snip.hxrsh.in/)
 
 ```sh
 pip install snipbin.py
-#A mirror of snipbin.py is available with
-pip install snipbin
 ```
 
 ## Usage
